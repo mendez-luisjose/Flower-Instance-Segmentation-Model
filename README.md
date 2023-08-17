@@ -11,6 +11,8 @@ The `Flower Detection and Instance Segmentation Model` was trained with over 400
 ## Check-it out
 Test it by running the `app.py` file, built with `Streamlit`.
 
+<img src="./imgs/interface1.png" width="800"/>
+
 ## Run
 ```sh
 streamlit run app.py
