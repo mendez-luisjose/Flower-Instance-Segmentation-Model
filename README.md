@@ -1,8 +1,8 @@
-# License Plate Recognition 🚗
+# Flower Instance Segmentation 🌻
 
-![](./license_detection.gif)
+![](./flower_segmentation.gif)
 
-## License Plate Detection and Extraction with YoloV8 and EasyOCR
+## Flower Detection and Instance Segmentation with YOLOv8
 
 Using both the `COCO Model` to detect the vehicles and the `License Plate Model` to recognize the plate, and then with EasyOCR to extract the info from the cropped plate image.
 
