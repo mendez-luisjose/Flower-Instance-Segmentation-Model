@@ -4,9 +4,9 @@
 
 ## Flower Detection and Instance Segmentation with YOLOv8
 
-Using both the `COCO Model` to detect the vehicles and the `License Plate Model` to recognize the plate, and then with EasyOCR to extract the info from the cropped plate image.
+The `Flower Detection and Instance Segmentation Model` was trained with over 4000 Flower Images and with YOLOv8 Architecture.
 
-<img src="./imgs/interface.png" width="800"/>
+<img src="./imgs/val_batch0_pred.jpg" width="500"/>
 
 ## Check-it out
 Test it by running the `app.py` file, built with `Streamlit`.
@@ -19,4 +19,4 @@ streamlit run app.py
 <img src="./imgs/interface2.png" width="800"/>
 
 ## Resources
-- Licenses Plates Dataset: https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4
+- Flowers Dataset: https://universe.roboflow.com/flowersdetection/flowers_segmentation
